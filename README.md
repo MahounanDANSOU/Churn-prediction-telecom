@@ -9,13 +9,12 @@ Objective: **analyze and predict customer churn** to help the marketing team red
 ## 📁 Project Structure
 
 📂 Churn-prediction-telecom
-│
-├── data_preparation.py                  # Task 1 - préparation et nettoyage des données
-├── exploratory_data_analysis.py         # Task 2 - analyse exploratoire des données
-├── customer_segmentation.py              # Task 3 - segmentation client (clustering)
-├── churn_prediction_modeling.py          # Task 4 - modèles de prédiction et évaluation
-├── Telco_Customer_Churn_Dataset.csv     # Dataset
-├── README.md                            # Explications + organisation projet
+├── data_preparation.py           # Task 1 - préparation et nettoyage des données
+├── exploratory_data_analysis.py  # Task 2 - analyse exploratoire des données
+├── customer_segmentation.py      # Task 3 - segmentation client (clustering)
+├── churn_prediction_modeling.py  # Task 4 - modèles de prédiction et évaluation
+├── Telco_Customer_Churn_Dataset.csv  # Dataset
+└── README.md                    # Explications + organisation projet
 
 
 ---
