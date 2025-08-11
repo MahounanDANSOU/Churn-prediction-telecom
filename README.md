@@ -81,8 +81,8 @@ Objective: **analyze and predict customer churn** to help the marketing team red
 ## 📬 Contact
 
 If you'd like to discuss the project or my work, feel free to connect:  
-- **LinkedIn**: [Your LinkedIn Link](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
+- **LinkedIn**: [M. Mike DANSOU](https://www.linkedin.com/in/m-mike-dansou-977878343)
+- **Email**: mahounan.dansou@gmail.com
 
 ---
 
